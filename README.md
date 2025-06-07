@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Kanan Sultanov
 
-<!--
-**sultanovkanan/sultanovkanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Android Developer**  
+📍 Currently working at the **International Bank of Azerbaijan**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 About Me
+I'm a passionate Android Developer with 3 years of experience building modern, high-quality mobile applications using Kotlin. Currently, I’m focused on learning **Jetpack Compose** to develop more intuitive and efficient UIs.
+
+---
+
+### 🔧 Tech Stack
+- **Languages:** Kotlin, Java
+- **Android:** Jetpack Compose, XML layouts, MVVM, MVI, Hilt, Navigation Component
+- **Tools:** Git, Android Studio, Firebase, Retrofit, Coil
+- **Others:** REST APIs, Modular Architecture, Clean Architecture
+
+---
+
+### 🚀 Currently Learning
+- Jetpack Compose
+- Advanced UI/UX on Android
+- Clean Code & Design Patterns
+
+---
+
+### 📫 Contact Me
+- 📧 Email: [kenansultanov54@gmail.com](mailto:kenansultanov54@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/kanansultanov](https://www.linkedin.com/in/kanansultanov/)
+
+---
+
+### ⚡ Fun Fact
+I’m also a black belt in Taekwondo and regularly participate in various championships as a referee. 🥋
+
+---
+
+Thanks for visiting my profile! 😊
+
